@@ -1,3 +1,5 @@
+                                        **DON'T FORGET TO RUN ALL THE CELL FIRST!!!**
+
 *************************************************************************************************************************
 ------------------------------------------ WELCOME TO MY SECOND PROJECT :) --------------------------------------------
 *************************************************************************************************************************
@@ -7,6 +9,7 @@
 -------------------------------------------------------------------------------------------------------------------------
 
 ** Analisis data Crime in Boston
+
 ** Data ini merupakan rekaman dari laporan tindak kriminal yang ada di Boston dari tanggal 14 Juni 2015 hingga 3 September 2018.
 Terdapat 17 Kolom default, dengan penjabaran sebagai berikut:
 1. INCIDENT_NUMBER = Unique Value, berupa nomor pelaporan tindak kriminal.
